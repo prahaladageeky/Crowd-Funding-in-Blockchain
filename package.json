@@ -1,0 +1,21 @@
+{
+  "name": "foxbot-coin-sale",
+  "version": "1.0.0",
+  "description": "FoxBot Coin ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "TeamFoxBot",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "truffle-contract": "^3.0.8",
+    "web3": "^1.7.1"
+  }
+}
